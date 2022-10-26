@@ -9,5 +9,5 @@ func Hello() {
 
 // Bye says bye.
 func Bye() {
-	fmt.Println("Bye go mod.v2.0! ")
+	fmt.Println("Bye go mod.v2.0!")
 }
